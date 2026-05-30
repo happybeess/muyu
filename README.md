@@ -1,8 +1,10 @@
-# 摸鱼敲木鱼 - 桌面宠物
+<img width="1401" height="869" alt="image" src="https://github.com/user-attachments/assets/f0ca287a-400a-471d-bae9-c81d75ac18dc" /># 摸鱼敲木鱼 - 桌面宠物
 
 一个桌面端「摸鱼敲木鱼」小宠物，纯 Canvas 绘制的水墨风景画，敲键盘就敲木鱼，鱼儿加速游动，粒子飞溅。
 
 ## 效果展示
+<img width="1401" height="869" alt="image" src="https://github.com/user-attachments/assets/08a7f6d9-4029-4b94-9b18-1ea9c6727246" />
+
 
 - **椭圆形透明窗口**悬浮在桌面右下角，不影响正常工作
 - 画面包含：远山、柳树、荷塘、锦鲤、木鱼
